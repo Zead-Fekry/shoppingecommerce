@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1040444848986",
+    "project_id": "globalkarobar-fa55a",
+    "storage_bucket": "globalkarobar-fa55a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040444848986:android:aa878c8bfe753ce4c81163",
+        "android_client_info": {
+          "package_name": "com.activeitzone.active_ecommerce_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040444848986-iqq4hid70dgljjcgm5ammq25nmefedtt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPFSkqmOvH7GWpBtxjs49RLyWRUjn56OI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040444848986-iqq4hid70dgljjcgm5ammq25nmefedtt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
